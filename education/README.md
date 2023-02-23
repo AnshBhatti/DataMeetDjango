@@ -1,0 +1,1 @@
+This folder contains the backbone of DataMeet, maintaining the database models and applying the REST framework to set URL endpoints for communications with the frontend interfaces of this project.
